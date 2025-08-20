@@ -726,7 +726,7 @@ button.hamburger-menu > i.icon-close {
   }
 
   #tentang-saya > .wrapper > div > .foto {
-    width: 100%; /* logo full lebar */
+    width: 90%; /* logo full lebar */
     margin-bottom: 15px;
   }
 
@@ -735,7 +735,7 @@ button.hamburger-menu > i.icon-close {
   }
 
   #tentang-saya > .wrapper > div > .desc {
-    width: 90%; /* deskripsi full lebar */
+    width: 130%; /* deskripsi full lebar */
     margin: 0;
     padding: 10px;
   }
